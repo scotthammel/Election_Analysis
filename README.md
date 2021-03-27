@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-Performing an election audit on a recent local congressional race on behalf of A Colorado Board of Elections employee.
+Performing an election audit on a recent local congressional race on behalf of a Colorado Board of Elections employee.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who recieved votes.
