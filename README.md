@@ -32,6 +32,8 @@ Performing an election audit on a recent local congressional race on behalf of A
 
 ## Challenges Overview
 - Relying on (1) data source
+- "for" and "if" functions
 
 ## Challenges Summary
 - the elections audit was performed using one data source 
+- understanding where to indent using "for", then "if" fuction when coding
