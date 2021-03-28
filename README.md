@@ -5,9 +5,11 @@ Performing an election audit on a recent local congressional race on behalf of a
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who recieved votes.
-3. Calculate the total number of votes each candidate recieved.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on the popular vote.
+3. Get a complete list of counties.
+4. Calculate the total number of votes each candidate and county recieved.
+5. Calculate the percentage of votes each candidate and county won.
+6. Determine the county with largest vote total.
+7. Determine the winner of the election based on the popular vote.
     
 
 ## Resources 
