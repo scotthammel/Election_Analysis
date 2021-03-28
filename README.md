@@ -40,6 +40,18 @@ Performing an election audit on a recent local congressional race on behalf of a
   - Diana DeGette, who recieved 73.8% of the votes and 272,892 number of votes.
 
 
+## Script Examples:
+- Retrieving the vote count and percentage:
+<img width="646" alt="c" src="https://user-images.githubusercontent.com/77898345/112768470-d8a46c80-8fe1-11eb-93ff-4ec6d8e25351.png">
+
+- Printing the winning candidate's summary (name, total votes recived and percentage):
+<img width="541" alt="Screen Shot 2021-03-28 at 4 13 22 PM" src="https://user-images.githubusercontent.com/77898345/112768523-02f62a00-8fe2-11eb-89a7-6d01e8c226a8.png">
+
+
+
+
 ## Election Audit Summary
 This script can be applied for future election results. The output would give you the winning candidate based on their votes campared to the total votes. Variables like "county" and candidate" can be switched to get your desired outcome.
+
+
 
