@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Project Overview
+## Overview of Election Audit:
 Performing an election audit on a recent local congressional race on behalf of a Colorado Board of Elections employee.
 
 1. Calculate the total number of votes cast.
@@ -14,8 +14,15 @@ Performing an election audit on a recent local congressional race on behalf of a
 - Date Source: election_results.csv 
 - Software: Python 3.8.5, Visual Code Studio 1.52.1
 
-## Summary
+## Election-Audit Results:
 - Total votes: 369,711
+
+- Results from counties:
+  - Jefferson recieved 10.5% of the votes and 38,855 number of votes.
+  - Denver recieved 82.8% of the votes and 306,055 number of votes.
+  - Arapahoe recieved 6.7% of the votes and 24,801 number of votes.
+
+- Denver recieved the largest number of votes with 306,055 (82.8)%
 
 - Candidates:
   - Charles Casper Stockham
@@ -30,10 +37,7 @@ Performing an election audit on a recent local congressional race on behalf of a
 - Winner of the election:
   - Diana DeGette, who recieved 73.8% of the votes and 272,892 number of votes.
 
-## Challenges Overview
-- Relying on (1) data source
-- "for" and "if" functions
 
-## Challenges Summary
-- the elections audit was performed using one data source 
-- understanding where to indent using "for", then "if" fuction when coding
+## Election Audit Summary
+This script can be applied for future election results. The output would give you the winning candidate based on their votes campared to the total votes. Variables like "county" and candidate" can be switched to get your desired outcome.
+
